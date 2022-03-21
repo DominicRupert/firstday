@@ -1,0 +1,25 @@
+body {
+    background-color: crimson;
+}
+
+.d-flex {
+    display: flex;
+
+}
+
+.column {
+    flex-direction: column;
+    width: 33%;
+}
+
+img {
+    height: 25vh;
+    width: 30vw;
+}
+
+.text-center {
+    text-align: center;
+}
+.justify-content-center{
+    justify-content: center;
+}
